@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "https://github.com/enriquebv/vue-headless.git",
   "author": "Enrique Bernabeu <ebvcontacto@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "docs": "vuepress dev ./docs",
+    "docs:build": "vuepress build ./docs"
+  },
+  "dependencies": {
+    "@vuepress/theme-blog": "^2.1.0",
+    "vuepress": "^1.3.0"
+  }
 }
