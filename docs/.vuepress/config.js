@@ -3,17 +3,18 @@ module.exports = {
   description: "Build your own UI.",
   themeConfig: {
     searchPlaceholder: "Search...",
+    sidebar: [
+      '/introduction',
+      '/usage',
+      {
+        title: 'Components',
+        path: '/components/',
+      }
+    ],
     nav: [
-      { text: "Docs", link: "/" },
-      { text: "API", link: "/api" },
-      // {
-      //   text: "Languages",
-      //   ariaLabel: "Language Menu",
-      //   items: [
-      //     { text: "English", link: "/" },
-      //     { text: "Español", link: "/es/" }
-      //   ]
-      // }
+      { text: "Home", link: "/" },
+      { text: "Introduction", link: "/introduction/" },
+      { text: "Components", link: "/components/" },
     ]
   }
 };
