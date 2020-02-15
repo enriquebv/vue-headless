@@ -1,10 +1,14 @@
-![Netlify Status](https://api.netlify.com/api/v1/badges/ce8e2d8a-81d3-4a83-be34-f379b3fb1184/deploy-status)
+<h1 style="text-align:center;">vue-headless</h1>
 
-# vue-headless
+<p style="text-align:center">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg"/>
+  <img src="https://badge.fury.io/js/vue-headless.svg"/>
+</p>
 
-[Docs](https://vue-headless.netlify.com/)
 
-In progress.
+**[Docs](https://vue-headless.netlify.com/).**
+
+> In progress.
 
 ## Roadmap
 
