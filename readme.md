@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-green.svg"/>
   <img src="https://badge.fury.io/js/vue-headless.svg"/>
+  <a href="https://discord.gg/nFfxX5B" target="_blank"><img src="https://img.shields.io/badge/chat-Discord-7289da"/></a>
 </p>
 
 
