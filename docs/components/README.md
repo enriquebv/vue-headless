@@ -30,16 +30,6 @@ Useful to make tables, tabular lists, with filters, sorts, API-driven integratio
 - Import route: `vue-modules/dist/datagrid/index.js`
 - [Docs](/components/datagrid)
 
-## NumberRange
-
-> In development
-
-Works with `Number`, useful to make sliders.
-
-- Name: `NumberRangeHeadless`
-- Import route: `vue-modules/dist/number-range/index.js`
-- [Docs](/components/number-range)
-
 ## Uploader
 
 > In development
