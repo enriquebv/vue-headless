@@ -1,6 +1,6 @@
-<h1 style="text-align:center;">vue-headless</h1>
+<h1 align="center">vue-headless</h1>
 
-<p style="text-align:center">
+<p align="center">
   <img src="https://img.shields.io/badge/License-MIT-green.svg"/>
   <img src="https://badge.fury.io/js/vue-headless.svg"/>
 </p>
