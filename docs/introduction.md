@@ -20,7 +20,7 @@ A headless component is one that provides functionality, but no interface. It so
 
 From its base, the components of this library are built in TypeScript, to provide code robustness, and unit tests with Jest using TDD. vue-headless uses these tools to provide consistent components.
 
-> TDD** is a software engineering practice that consists (explained very briefly) of translating requirements into tests, and creating code that passes those tests. The components are tested from the concept.
+> **TDD** is a software engineering practice that consists (explained very briefly) of translating requirements into tests, and creating code that passes those tests. The components are tested from the concept.
 
 ### Do I need TypeScript?
 
