@@ -1,14 +1,14 @@
 # Components
 
-## DatePicker
+## DateTime
 
 > In development
 
 Works with `Date`, useful to make calendars, time pickers, ranges, multiselection, calendars, etc.
 
-- Name: `DatePickerHeadless`
-- Import route: `vue-modules/dist/date-picker/index.js`
-- [Docs](/components/date-picker)
+- Name: `DateTimeHeadless`
+- Import route: `vue-modules/dist/date-time/index.js`
+- [Docs](/components/date-time)
 
 ## Select
 
