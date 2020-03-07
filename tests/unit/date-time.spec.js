@@ -1,5 +1,4 @@
-import component from "../../src/date-time/component.js";
+import { mount } from "@vue/test-utils";
+import DateTimeHeadless from "../../src/date-time/component.js";
 
-test("test the test", () => {
-  expect(true).toEqual(true);
-});
+test('multipan unknow position should fail')

@@ -23,11 +23,16 @@ module.exports = {
       {
         title: "Components",
         path: "/components/"
-      }
+      },
+      {
+        title: "Contributing",
+        path: "/contributing/"
+      },
     ],
     nav: [
       { text: "Home", link: "/" },
-      { text: "Components", link: "/components/" }
+      { text: "Components", link: "/components/" },
+      { text: "Contributing", link: "/contributing/" },
     ]
   }
 };

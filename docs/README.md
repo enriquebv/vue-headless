@@ -2,7 +2,7 @@
 home: true
 # heroImage: /hero.png
 heroText: vue-headless
-tagline: Building your own Vue UI.
+tagline: A set of renderless components to make your awesome UI.
 actionText: Introduction →
 actionLink: /introduction
 features:
@@ -11,6 +11,6 @@ features:
 - title: Robust
   details: Developed with Typescript and tested with Jest, the components are production ready before you use it. Don't worry for extreme use causes.
 - title: Ease to use
-  details: The headless components are included in your components using mixins. Just two lines of code bring into the component methods and data needed to create your final implementation.
+  details: Just include the headless component, provide the initial data and use the result to make your awesome UI.
 footer: MIT Licensed | Copyright © 2020-present Enrique Bernabeu
 ---

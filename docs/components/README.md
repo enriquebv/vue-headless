@@ -7,7 +7,7 @@
 Works with `Date`, useful to make calendars, time pickers, ranges, multiselection, calendars, etc.
 
 - Name: `DateTimeHeadless`
-- Import route: `vue-modules/dist/date-time/index.js`
+- Import route: `vue-headless/dist/date-time/component.js`
 - [Docs](/components/date-time)
 
 ## Select
@@ -17,7 +17,7 @@ Works with `Date`, useful to make calendars, time pickers, ranges, multiselectio
 Useful to make selects, combobox, autosuggests, etc.
 
 - Name: `SelectHeadless`
-- Import route: `vue-modules/dist/select/index.js`
+- Import route: `vue-headless/dist/select/component.js`
 - [Docs](/components/select)
 
 ## Datagrid
@@ -27,7 +27,7 @@ Useful to make selects, combobox, autosuggests, etc.
 Useful to make tables, tabular lists, with filters, sorts, API-driven integration, groups, etc.
 
 - Name: `DatagridHeadless`
-- Import route: `vue-modules/dist/datagrid/index.js`
+- Import route: `vue-headless/dist/datagrid/component.js`
 - [Docs](/components/datagrid)
 
 ## Uploader
@@ -37,7 +37,7 @@ Useful to make tables, tabular lists, with filters, sorts, API-driven integratio
 Works with `File`, useful to make uploaders, etc.
 
 - Name: `UploadeHeadless`
-- Import route: `vue-modules/dist/uploader/index.js`
+- Import route: `vue-headless/dist/uploader/component.js`
 - [Docs](/components/uploader)
 
 ## Rating
@@ -47,7 +47,7 @@ Works with `File`, useful to make uploaders, etc.
 Works with `Number`, useful to make rating systems, etc.
 
 - Name: `SliderHeadless`
-- Import route: `vue-modules/dist/rating/index.js`
+- Import route: `vue-headless/dist/rating/component.js`
 - [Docs](/components/rating)
 
 ## Pagination
@@ -57,5 +57,5 @@ Works with `Number`, useful to make rating systems, etc.
 Useful to create number pagination.
 
 - Name: `SliderHeadless`
-- Import route: `vue-modules/dist/pagination/index.js`
+- Import route: `vue-headless/dist/pagination/component.js`
 - [Docs](/components/pagination)
